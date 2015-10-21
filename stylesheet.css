@@ -1,0 +1,45 @@
+		<script src="script.js"></script>
+header{
+	z-index: 1;
+	position: fixed;
+	width: 97.5%;
+	margin-top: -20px;
+	height: 60px;
+	background-color: #668284;
+	margin-bottom: 10px;
+}
+.Ingredient{
+	display: block;
+	padding-left: 100px;
+	margin-top: 100px;
+	width: 500px;
+	float: left;
+	text-align: justify;
+	font-family: Courier;
+}
+.Direction{
+	display: block;
+	width: 300px;
+    margin-top: 100px;
+    padding-right: 100px;
+    float: right;
+    text-align: justify;
+    font-family: Courier;
+}
+
+.Comment{	
+	font-family: Georgia;
+	color: black;
+
+}
+
+#recipe {
+	font-family: Georgia;
+	color: black;
+	font-weight: bold;
+	font-size: 20px;
+
+section {
+	color:green;
+	text-align: left;
+}
